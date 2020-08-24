@@ -1,0 +1,23 @@
+.main {
+  width: 600px;
+  margin: 25px 100px;
+}
+
+.display-4, .subheading {
+  margin: 75px 100px 0px 100px;
+}
+
+.tab {
+  margin: 100px 0px;
+  padding: 10px 10px 10px 0px;
+  width: 100%;
+  background-color: #5398BE;
+  opacity: 80%;
+  border-radius: 25px;
+  line-height: 1.7;
+  color: white;
+}
+
+.tab li {
+  padding: 5px 0px;
+}
