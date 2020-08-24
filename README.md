@@ -1,4 +1,4 @@
 # SYEP-Bridge-Immigration
 ---
-permalink: /index.html
+permalink: /templates/english/citizenship.html
 ---
